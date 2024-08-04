@@ -1,0 +1,12 @@
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/bin/Debug/net6.0/NotificationServices.Domain.deps.json
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/bin/Debug/net6.0/NotificationServices.Domain.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/bin/Debug/net6.0/NotificationServices.Domain.pdb
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.csproj.AssemblyReference.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.AssemblyInfoInputs.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.AssemblyInfo.cs
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.csproj.CoreCompileInputs.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/refint/NotificationServices.Domain.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/NotificationServices.Domain.pdb
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/Debug/net6.0/ref/NotificationServices.Domain.dll

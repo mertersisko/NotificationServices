@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/NotificationServices.WepApi.csproj": {}
+  },
+  "projects": {
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/NotificationServices.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/NotificationServices.Application.csproj",
+        "projectName": "NotificationServices.Application",
+        "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/NotificationServices.Application.csproj",
+        "packagesPath": "/Users/mertersisko/.nuget/packages/",
+        "outputPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mertersisko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/cagriEtkinBilgi/RegistaPackets.git": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj": {
+                "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RegistaPackets.BaseEntityRepository": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "RegistaPackets.Responder": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj",
+        "projectName": "NotificationServices.Domain",
+        "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj",
+        "packagesPath": "/Users/mertersisko/.nuget/packages/",
+        "outputPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mertersisko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/cagriEtkinBilgi/RegistaPackets.git": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RegistaPackets.BaseEntityRepository": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "RegistaPackets.Comman": {
+              "target": "Package",
+              "version": "[1.0.1.2, )"
+            },
+            "RegistaPackets.Responder": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/NotificationServices.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/NotificationServices.Infrastructure.csproj",
+        "projectName": "NotificationServices.Infrastructure",
+        "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/NotificationServices.Infrastructure.csproj",
+        "packagesPath": "/Users/mertersisko/.nuget/packages/",
+        "outputPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mertersisko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/cagriEtkinBilgi/RegistaPackets.git": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/NotificationServices.Application.csproj": {
+                "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/NotificationServices.Application.csproj"
+              },
+              "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/NotificationServices.Persistence.csproj": {
+                "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/NotificationServices.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "RegistPackets.FileService": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "RegistaPackets.AuthService": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "RegistaPackets.Comman": {
+              "target": "Package",
+              "version": "[1.0.1.2, )"
+            },
+            "RegistaPackets.ExceptionHandling": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/NotificationServices.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/NotificationServices.Persistence.csproj",
+        "projectName": "NotificationServices.Persistence",
+        "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/NotificationServices.Persistence.csproj",
+        "packagesPath": "/Users/mertersisko/.nuget/packages/",
+        "outputPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mertersisko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/cagriEtkinBilgi/RegistaPackets.git": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj": {
+                "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Domain/NotificationServices.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/NotificationServices.WepApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/NotificationServices.WepApi.csproj",
+        "projectName": "NotificationServices.WepApi",
+        "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/NotificationServices.WepApi.csproj",
+        "packagesPath": "/Users/mertersisko/.nuget/packages/",
+        "outputPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mertersisko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/cagriEtkinBilgi/RegistaPackets.git": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/NotificationServices.Infrastructure.csproj": {
+                "projectPath": "/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Infrastructure/NotificationServices.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

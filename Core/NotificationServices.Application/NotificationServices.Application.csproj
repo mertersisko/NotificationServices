@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RegistaPackets.BaseEntityRepository" Version="1.0.4" />
+    <PackageReference Include="RegistaPackets.Responder" Version="1.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotificationServices.Domain\NotificationServices.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

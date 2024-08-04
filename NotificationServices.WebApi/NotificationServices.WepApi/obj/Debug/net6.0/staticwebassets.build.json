@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PfTsjqhSk6TtDPJXbjxLNRrbIlYRHGW9r6wzu4k9uhg=",
+  "Source": "NotificationServices.WepApi",
+  "BasePath": "_content/NotificationServices.WepApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NotificationServices.WepApi/wwwroot",
+      "Source": "NotificationServices.WepApi",
+      "ContentRoot": "/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/wwwroot/",
+      "BasePath": "_content/NotificationServices.WepApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

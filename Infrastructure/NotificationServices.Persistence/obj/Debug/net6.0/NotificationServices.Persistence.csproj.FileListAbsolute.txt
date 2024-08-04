@@ -1,0 +1,17 @@
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Persistence.deps.json
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Persistence.runtimeconfig.json
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Persistence.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Persistence.pdb
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Domain.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/bin/Debug/net6.0/NotificationServices.Domain.pdb
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.csproj.AssemblyReference.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.AssemblyInfoInputs.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.AssemblyInfo.cs
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.csproj.CoreCompileInputs.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/Notifica.2878B8FA.Up2Date
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/refint/NotificationServices.Persistence.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.pdb
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/NotificationServices.Persistence.genruntimeconfig.cache
+/Users/mertersisko/repos/Example_Project/NotificationServices/Infrastructure/NotificationServices.Persistence/obj/Debug/net6.0/ref/NotificationServices.Persistence.dll
