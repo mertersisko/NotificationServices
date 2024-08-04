@@ -13,3 +13,4 @@
 /Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/obj/Debug/net6.0/refint/NotificationServices.Application.dll
 /Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/obj/Debug/net6.0/NotificationServices.Application.pdb
 /Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/obj/Debug/net6.0/ref/NotificationServices.Application.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/Core/NotificationServices.Application/obj/Debug/net6.0/NotificationServices.Application.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotificationServices.WepApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e43ff21f7d798d09acacf2191661aa9c61bed7b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f07729212325c42373b6b5750558d74b31f50f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotificationServices.WepApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotificationServices.WepApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

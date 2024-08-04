@@ -98,3 +98,4 @@
 /Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/obj/Debug/net6.0/NotificationServices.WepApi.pdb
 /Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/obj/Debug/net6.0/NotificationServices.WepApi.genruntimeconfig.cache
 /Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/obj/Debug/net6.0/ref/NotificationServices.WepApi.dll
+/Users/mertersisko/repos/Example_Project/NotificationServices/NotificationServices.WebApi/NotificationServices.WepApi/obj/Debug/net6.0/NotificationServices.WepApi.sourcelink.json
